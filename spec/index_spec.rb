@@ -14,7 +14,7 @@ describe "Title page" do
   end
 
   it "has front navigation" do
-    expect(page).to have_css("div#front-nav h3 a", count: 4)
+    expect(page).to have_css("div#front-nav h3 a", count: 3)
   end
 
   # Currently not implemented

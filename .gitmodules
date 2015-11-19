@@ -1,4 +1,4 @@
 [submodule "content"]
 	path = content
-        branch = master
+        branch = release
 	url = https://github.com/developer-portal/content.git

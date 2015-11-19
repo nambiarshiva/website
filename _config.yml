@@ -32,6 +32,8 @@ kramdown:
 
 # Let's not ship any of these unnecessary files
 exclude:
+  # Only temporaty until the start page is ready
+  - start.html
   - Dockerfile
   - Vagrantfile
   - CONTRIBUTING.md

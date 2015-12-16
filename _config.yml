@@ -38,11 +38,14 @@ exclude:
   - Vagrantfile
   - CONTRIBUTING.md
   - README.md
+  - DEVELOPMENT.md
+  - RELEASE.md
   - "*.sh"
   - "*.rb"
   - "*.py"
   - "*.txt"
   - "static/**/*.html"
+  - "LICENSE"
   - "**/LICENSE"
   - "**/LICENSE-MIT"
   - "**/README.md"
